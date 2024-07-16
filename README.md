@@ -1,0 +1,1 @@
+Welcome to my JavaScript Projects repository! This repository contains a collection of JavaScript projects that I have worked on. Each project is designed to demonstrate different concepts and skills in JavaScript development.
